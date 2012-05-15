@@ -4,7 +4,7 @@
 <h2>Download</h2>
 <p>You can download Steffe from github.</p>
 <blockquote>
-<code>git clone git://github.com/kjellmeister/STEFFE.git</code>
+<code>git clone git://github.com/kjellmeister/PHPMVC.git</code>
 </blockquote>
 <p>You can review its source directly on github: <a href='https://github.com/kjellmeister/STEFFE'>https://github.com/kjellmeister/STEFFE</a></p>
 
