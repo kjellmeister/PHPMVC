@@ -12,7 +12,11 @@
 <p>First you have to make the data-directory writable. This is the place where Steffe needs
 to be able to write and create files.</p>
 <blockquote>
-<code>cd steffe; chmod 777 site/data</code>
+<code>cd STEFFE; chmod 777 site/data</code>
+<code>cd STEFFE; chmod 777 themes/grid</code>
+<p>
+You might also have to change the "RewriteBase" in the .htaccess - file. Instructions can be found in the file.
+</p>
 </blockquote>
 
 <p>Second, Steffe has some modules that need to be initialised. You can do this through a 
